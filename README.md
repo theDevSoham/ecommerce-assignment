@@ -1,4 +1,4 @@
-<img width="1919" height="931" alt="Screenshot 2025-10-04 at 2 56 45 PM" src="https://github.com/user-attachments/assets/a3534441-6780-40cb-846e-0f16fa332585" /># 🛍️ Simple E-Commerce Website
+# 🛍️ Simple E-Commerce Website
 
 A lightweight **e-commerce web application** built with **ReactJS (frontend)** and **NodeJS (backend)**.
 This project demonstrates a full-stack implementation of a minimal shopping experience: browsing products, adding them to the cart, and placing an order.

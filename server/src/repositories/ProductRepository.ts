@@ -10,7 +10,7 @@ export class ProductRepository {
   }
 
   private loadProducts() {
-    const file = path.resolve(__dirname, "../data/products.json");
+    const file = path.resolve(__dirname, "../../data/products.json");
     try {
       const raw = fs.readFileSync(file, { encoding: "utf-8" });
       const parsed = JSON.parse(raw) as Product[];
